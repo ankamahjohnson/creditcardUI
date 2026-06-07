@@ -3,7 +3,7 @@ A realistic interactive credit card UI built with HTML and CSS. Features a smoot
 
 ## Live Demo
 View Live 🌐
-https://ankamahjohnson.github.io/creditcardui
+https://ankamahjohnson.github.io/creditcardui/
 
 ## Features
 - Smooth 3D card flip animation on click using CSS transform and perspective
