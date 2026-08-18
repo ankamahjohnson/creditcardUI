@@ -1,5 +1,5 @@
 # credit card
-A realistic interactive credit card UI built with HTML and CSS. Features a smooth 3D flip animation revealing the front and back of a Mastercard on click, set against a premium metallic background.
+A realistic interactive credit card UI built with HTML & CSS. Features a smooth 3D flip animation revealing the front and back of a Mastercard on click, set against a premium metallic background.
 
 ## Live Demo
 View Live 🌐
@@ -7,13 +7,13 @@ https://ankamahjohnson.github.io/creditcardUI/
 
 ## Features
 - Smooth 3D card flip animation on click using CSS transform and perspective
-- Front face displays Mastercard logo, chip icon, card number, cardholder name and expiry date
-- Back face displays magnetic stripe, CVV security code and customer service details
+- Front face displays Mastercard logo, chip icon, card number, cardholder name & expiry date
+- Back face displays magnetic stripe, CVV security code & customer service details
 - Glassmorphism frosted card design with semi transparent background
 - Premium metallic silver blob background for visual depth
-- Realistic credit card layout and proportions
+- Realistic credit card layout & proportions
 - Clean white typography for high contrast readability
-- Fully responsive and centered layout
+- Fully responsive & centered layout
   
 
 
